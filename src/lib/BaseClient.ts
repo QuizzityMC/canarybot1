@@ -11,7 +11,7 @@ export interface Config {
 }
 
 const defaultConfig: Config = {
-    ownerIds: [],
+    ownerIds: [1299573894021218382],
     databasePath: "./database.sqlite",
     prefix: "-",
 };
